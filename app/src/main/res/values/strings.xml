@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="homeTitle">Tic Tac Toe</string>
+    <string name="playButton">Play</string>
+
+    <string name="PlayersTitle">Enter a name</string>
+    <string name="Label1">Player1</string>
+    <string name="Label2">Player2</string>
+    <string name="submitBtn">Send Names</string>
+    <string name="hintName">Type a Name</string>
+
+    <string name="PlayAgain">Play Again</string>
+    <string name="Home">Home Screen</string>
+
+
+</resources>
